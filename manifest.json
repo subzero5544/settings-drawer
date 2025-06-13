@@ -1,0 +1,9 @@
+{
+    "display_name": "Advanced Options Dropdown",
+    "loading_order": 60,
+    "js": "index.js",
+    "author": "OpenAI Assistant",
+    "version": "1.0.0",
+    "description": "Collapses the UI elements from 'Wrap in Quotes' to 'Reasoning Effort' into a single expandable dropdown titled 'Advanced Options'.",
+    "auto_update": false
+}
