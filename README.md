@@ -1,7 +1,7 @@
 # settings-dropdown
 this is just a simple UI tweak that i think some might like.
 
-Basically, it puts the options like "squash system messages," "reasoning effort," etc., and puts them into a collapsible drawer/dropdown like the others around it.
+Basically, it puts the settings/checkboxes like "squash system messages," "reasoning effort," etc., and puts them into a collapsible drawer/dropdown like the others around it.
 
 below is an example of how it works.
 
