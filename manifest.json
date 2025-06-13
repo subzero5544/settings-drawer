@@ -5,5 +5,6 @@
     "author": "Subzero5544/subwolf",
     "version": "1.0.0",
     "description": "Collapses the UI elements from 'Wrap in Quotes' to 'Reasoning Effort' into a single expandable dropdown titled 'Advanced Options'.",
+    "homePage": "https://github.com/subzero5544/Settings-dropdown",
     "auto_update": true
 }
