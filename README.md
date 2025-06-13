@@ -1,4 +1,4 @@
-# settings-drawer
+# settings-dropdown
 this is just a simple UI tweak that i think some might like.
 
 Basically, it puts the options like "squash system messages," "reasoning effort," etc., and puts them into a collapsible drawer like the others around it.
@@ -17,3 +17,5 @@ Here are some screenshots just to help install extensions if you are not familia
 ![Screenshot 2025-06-09 160000](https://github.com/user-attachments/assets/8228d437-a2f2-4041-ad09-e86f0fdbb0bf)
 
 copy and paste this link to that box and you're done https://github.com/subzero5544/settings-drawer.git
+
+made with the help of o3
